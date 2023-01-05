@@ -549,7 +549,7 @@ img{
                   
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-single fix">
-                <img src="https://latestwallpapershd.com/wp-content/uploads/2019/04/Strawberry-desserts-wallpaper-HD.jpg">
+                <img src="https://lh3.googleusercontent.com/CaLq1cEKRajjyDaF4K4h0LOFYuCtZcQ1qkc19veXcT5Xzhx78pQatiR1_kv8KNxa-gmRjyDd88BfrXzkKreQwOuqWbWlK6MFGO33n1w=s1200-p">
                 <center>
                 <div class="why-text">
                     <h3 style="font-weight:bold";><center>STRAWBERRY TRUFFLE</h3>
